@@ -42,4 +42,3 @@ function App() {
 
 export default App;
 
-//AIzaSyA9F5wUtxQBUOqmfYsvFch45N_koUmFipY
