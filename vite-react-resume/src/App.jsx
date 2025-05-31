@@ -2,6 +2,7 @@ import React, { useState, useEffect } from 'react';
 import './App.css';
 import Resume from './Resume.jsx';
 
+
 function App() {
   const [lightMode, setLightMode] = useState(false);
 
@@ -34,8 +35,11 @@ function App() {
         {lightMode ? '🌞 Light' : '🌙 Dark'}
       </button>
       <Resume />
+      
     </>
   );
 }
 
 export default App;
+
+//AIzaSyA9F5wUtxQBUOqmfYsvFch45N_koUmFipY
